@@ -7,7 +7,7 @@ html {
 }
 
 body {
-  background-color: #798080;
+  background-color: #798070;
   color: #292d2d;
   text-align: center;
 }
@@ -35,7 +35,7 @@ main {
   margin: 2rem auto;
   padding: 2rem;
   max-width: 50rem;
-  background-color: #292d2d;
+  background-color: #292d4d;
   border-radius: 8px;
   color: white;
 }
